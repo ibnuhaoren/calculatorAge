@@ -1,2 +1,0 @@
-# calculatorAge
-Kalkulator umur
