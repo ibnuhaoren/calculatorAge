@@ -1,0 +1,54 @@
+body {
+    font-family: 'Segoe UI', Tahoma,Verdana, sans-serif;
+    font-display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    background-color:khaki;
+}
+
+h1 {
+    font-size: 2em;
+    color: maroon;
+    margin-bottom: 20px;
+}
+
+input[type= "text"] {
+    padding: 10px;
+    border: 5px solid maroon;
+    border-radius: 10px;
+}
+
+button {
+    padding: 8px 16px;
+    margin: 0 5px;
+    background-color: ivory;
+    border: maroon 5px solid;
+    border-radius: 12px;
+    color: maroon;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: silver;
+}
+
+#result {
+    margin-top: 5%;
+    font-size: 1.2em;
+    padding: 15px;
+    border-radius: 20px;
+    display:inline-block;
+}
+
+.container {
+    text-align: center;
+    background: linear-gradient(to top,gold,silver);
+    padding: 30px;
+    border-radius: 10px;
+}
+
+footer {
+    margin-top: 10%;
+    font-style: italic;
+}
